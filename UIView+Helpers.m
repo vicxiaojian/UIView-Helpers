@@ -1,7 +1,7 @@
 //
 //  UIView+Helpers.m
 //
-//  Created by Andrew Carter on 11/9/11.
+//  Created by Vic on 15/9/15.
 
 #import "UIView+Helpers.h"
 
